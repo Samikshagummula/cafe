@@ -6,6 +6,7 @@
     color: white;
     justify-content: space-evenly;
     padding: 10px;
+    position: fixed;
 }
 
 a {
